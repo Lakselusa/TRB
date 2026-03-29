@@ -1,0 +1,7 @@
+{
+  "title": "TrimBIM Export",
+  "description": "Export the current 3D view (all loaded models) as a combined .trb TrimBIM file — directly from the browser, no desktop app needed.",
+  "url": "https://YOUR_HOSTING_DOMAIN/tc-trimbim-extension.html",
+  "icon": "https://YOUR_HOSTING_DOMAIN/icon.png",
+  "enabled": true
+}
